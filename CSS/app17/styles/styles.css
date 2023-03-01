@@ -1,0 +1,21 @@
+/* RGBA A-opacity/tranparency 0-1*/
+#first
+{
+    color: rgba(255, 0, 0, 1);
+    background: rgba(157, 199, 185, 0.486);
+}
+#second
+{
+    color: rgba(255, 0, 0, 0.75);
+    background: rgba(0, 0, 0, 0.25);
+}
+#three
+{
+    color: rgba(255, 0, 0, 0.25);
+    background: rgba(0, 0, 0, 0.75);
+}
+body
+{
+    /* background: rgba(0, 0, 0); */
+    background: rgb(210, 89, 210);
+}
