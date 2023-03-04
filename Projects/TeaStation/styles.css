@@ -23,4 +23,8 @@ a
 .nav-btn
 {
     position: fixed;
+    /* z-index specifies the stack order of an element. an element with higher stack order
+    is always front of an element with lower stack order
+    Note: z-index only works on positioned elements */
+    z-index: 1;
 }
